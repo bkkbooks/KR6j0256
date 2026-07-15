@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6j0256/v1
 canonical_location: https://kanripo.org/bkk/KR6j0256/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 千眼千臂觀世音菩薩陀羅尼神呪經
   identifiers:
@@ -21,13 +21,13 @@ editions:
 - short: T
 assets:
   parts:
-  - {seq: 0, filename: KR6j0256_000.yaml, hash: 'sha256:9ed6ecff966517a0d77f6d3e5f596ffadaf27cbb612473573598742a3cf6c580'}
-  - {seq: 1, filename: KR6j0256_001.yaml, hash: 'sha256:96636a02c75b58423304765d03faf6e7d38cf8a8c38fe25d8958b48b9e8e8ce5'}
-  - {seq: 2, filename: KR6j0256_002.yaml, hash: 'sha256:b8bfa80d2e5f28c75de6456d1d10ccae66e0c783977843e29345979b51924349'}
+  - {seq: 0, filename: KR6j0256_000.yaml, hash: 'sha256:a41804138d6857f397694c524bbb264cc182355c84b04a637b17ce8cd8984a90'}
+  - {seq: 1, filename: KR6j0256_001.yaml, hash: 'sha256:90dcc80a0e0c0f78ad6f7f4ee2374528675c9c6890467920a8031f33395646bb'}
+  - {seq: 2, filename: KR6j0256_002.yaml, hash: 'sha256:3948fa893e97e41ba0fe84a09410ea2389ca9c44bfa66e9d356339d3605a0237'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6j0256_000.markers.yaml, hash: 'sha256:5f625a3112d95ce55d941cd45acbef955713e0b95e01814152bbaac53d7273c3'}
-  - {seq: 1, role: markers, filename: assets/KR6j0256_001.markers.yaml, hash: 'sha256:2f318802f74928875e8fa7f9052ab581f1bd72a270d657173be647e39e051e68'}
-  - {seq: 2, role: markers, filename: assets/KR6j0256_002.markers.yaml, hash: 'sha256:a73dc612527fd0a33c62991583116c88d00c0dd2f29ad8afbdcaa3b49756eefb'}
+  - {seq: 0, role: markers, filename: assets/KR6j0256_000.markers.yaml, hash: 'sha256:10d50bc152f7fb2fbe771e6e4066d01a0627fe239d0a2cc907e95edaaa4d25b6'}
+  - {seq: 1, role: markers, filename: assets/KR6j0256_001.markers.yaml, hash: 'sha256:c81fa26214df5b310ea68b68049ccf8c18eb4b841edd44d4a8cf8a82699fdb9d'}
+  - {seq: 2, role: markers, filename: assets/KR6j0256_002.markers.yaml, hash: 'sha256:4147dc481b7a9999be11a7e70671fccf56c8328aaee9e0e55b7644eb395de1f0'}
 table_of_contents:
 - ref:
     seq: 0
@@ -333,4 +333,7 @@ table_of_contents:
   label: 25 請千臂觀音菩薩心王印咒
   type: mulu
   level: 1
-hash: sha256:c3f6bb38b49ab52f7ef514a72fe671b7b573059777739223be4d188f56152a0e
+hash: sha256:77d4a313cb83ca80c5dd18c7e8084d61ab196e7a7109074484b513acff497d8c
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
