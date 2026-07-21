@@ -21,11 +21,11 @@ editions:
 - short: T
 assets:
   parts:
-  - {seq: 0, filename: KR6j0256_000.yaml, hash: 'sha256:a41804138d6857f397694c524bbb264cc182355c84b04a637b17ce8cd8984a90'}
+  - {seq: 0, filename: KR6j0256_000.yaml, hash: 'sha256:72e13ecd336be8e159db9c54da9d649c0c9627308dbca59b8b9724deba94137a'}
   - {seq: 1, filename: KR6j0256_001.yaml, hash: 'sha256:90dcc80a0e0c0f78ad6f7f4ee2374528675c9c6890467920a8031f33395646bb'}
   - {seq: 2, filename: KR6j0256_002.yaml, hash: 'sha256:3948fa893e97e41ba0fe84a09410ea2389ca9c44bfa66e9d356339d3605a0237'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6j0256_000.markers.yaml, hash: 'sha256:10d50bc152f7fb2fbe771e6e4066d01a0627fe239d0a2cc907e95edaaa4d25b6'}
+  - {seq: 0, role: markers, filename: assets/KR6j0256_000.markers.yaml, hash: 'sha256:68789819e768d4deb0cf15104e17e020859ddcde6c6aeaae1fa542e35c43932e'}
   - {seq: 1, role: markers, filename: assets/KR6j0256_001.markers.yaml, hash: 'sha256:c81fa26214df5b310ea68b68049ccf8c18eb4b841edd44d4a8cf8a82699fdb9d'}
   - {seq: 2, role: markers, filename: assets/KR6j0256_002.markers.yaml, hash: 'sha256:4147dc481b7a9999be11a7e70671fccf56c8328aaee9e0e55b7644eb395de1f0'}
 table_of_contents:
@@ -33,7 +33,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6j0256_T_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 千眼千臂觀世音菩薩陀羅尼神咒經序
@@ -333,7 +333,7 @@ table_of_contents:
   label: 25 請千臂觀音菩薩心王印咒
   type: mulu
   level: 1
-hash: sha256:77d4a313cb83ca80c5dd18c7e8084d61ab196e7a7109074484b513acff497d8c
+hash: sha256:15dd3a462049701eff0a0ec2ba6b04ccb6493195ab7007151a248afa0126895e
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
